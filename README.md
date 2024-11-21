@@ -8,7 +8,7 @@ This Python-based application provides a simple and efficient way to manage bill
 - **Customer Details:** Capture customer details such as name and phone number to personalize the billing process.
 
 
-![alt text](market_billing_system-1.PNG)
+![image alt](https://github.com/05KaranGithub/Market_billing_system-/blob/00181dd405d007c8edba4098ce23c5d70c38cb8d/market_billing_system.PNG)
 
 
 
